@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Cifra & Pauta",
+  "short_name": "Cifra & Pauta",
+  "description": "Editor de cifras e partituras com exportação em PDF.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
